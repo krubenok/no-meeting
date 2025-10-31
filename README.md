@@ -1,14 +1,16 @@
-# No Hello
+# No Meeting
 
 Hello!
 
-https://nohello.net/
+https://no-meeting.example/ (or your deployed URL)
+
+This site encourages people to ask questions via email or instant messaging first, rather than immediately booking meetings. If the question turns out to be complex, then a meeting is a great idea!
 
 ## Translators
 
 We've added language support to the site, but are still working out the best workflow for people to submit translations. (There's a small amount of manual work required on the code side!)
 
-If you'd like to submit a translation, you can find us on [Transifex](https://www.transifex.com/nohello/nohellodotnet/). I _think_ you can suggest translations directly on their site without needing an invite to the organisation, but I'm not sure exactly. Let us know! Let's figure it out.
+If you'd like to submit a translation, you can find us on [Transifex](https://www.transifex.com/) (or open an issue to discuss translation workflow).
 
 Either way, open an issue on our GitHub repo, and we'll work out the best way to proceed :)
 

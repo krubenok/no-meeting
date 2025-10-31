@@ -1,10 +1,10 @@
 {
-  "name": "nohello.net",
-  "description": "please don't say just hello in chat",
+  "name": "no-meeting",
+  "description": "please don't book meetings just to ask questions",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/nohello-net/site/"
+    "url": "https://github.com/krubenok/no-meeting/"
   },
   "type": "commonjs",
   "scripts": {
